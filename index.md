@@ -17,9 +17,15 @@ This model curriculum is to be used as guidance by educational institutes in tea
 
 | Module                         | Details                                                   |
 | ------------------------------ | --------------------------------------------------------- |
-| Module A         | [View Topics](./module-a/README.md)    |
-| Module B         | [View Topics](./module-a/README.md)    |
-| Module C         | [View Topics](./module-a/README.md)    |
+| Introduction to Web           | [View Topics](./intro-to-web/index.md)    |
+| Computer Programming          | [View Topics](./computer-programming/index.md)    |
+| User Experience Design        | [View Topics](./user-experience/index.md)    |
+| HTML and CSS                  | [View Topics](./html-and-css/index.md)    |
+| JavaScript Programming        | [View Topics](./javascript-programming/index.md)    |
+| JavaScript Frameworks         | [View Topics](./javascript-frameworks/index.md)    |
+| Data and APIs                 | [View Topics](./data-and-apis/index.md)    |
+| Advanced Web Topics           | [View Topics](./advanced-web/index.md)    |
+| Mobiles and other devices     | [View Topics](./mobile-devices/index.md)    |
 
 ## Problem overview
 
