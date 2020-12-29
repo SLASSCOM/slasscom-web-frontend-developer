@@ -1,4 +1,4 @@
-[Home](../README.md) > [Data and APIs](./README.md) > Data exchange formats
+[Home](../index.md) > [Data and APIs](./index.md) > Data exchange formats
 
 # Topic: Data exchange formats
 

@@ -1,4 +1,4 @@
-[Home](../README.md) > [JavaScript Programming](./README.md) > OOP and TypeScript
+[Home](../index.md) > [JavaScript Programming](./index.md) > OOP and TypeScript
 
 # Topic: OOP and TypeScript
 

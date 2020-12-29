@@ -1,4 +1,4 @@
-[Home](../README.md) > [Mobiles and other devices](./README.md) > Hybrid mobile apps
+[Home](../index.md) > [Mobiles and other devices](./index.md) > Hybrid mobile apps
 
 # Topic: Hybrid mobile apps
 

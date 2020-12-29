@@ -1,4 +1,4 @@
-[Home](../README.md) > [User Experience Design](./README.md) > Modern web design trends
+[Home](../index.md) > [User Experience Design](./index.md) > Modern web design trends
 
 # Topic: Modern web design trends
 

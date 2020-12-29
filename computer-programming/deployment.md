@@ -1,4 +1,4 @@
-[Home](../README.md) > [Computer Programming](./README.md) > Deployment and automation
+[Home](../index.md) > [Computer Programming](./index.md) > Deployment and automation
 
 # Topic: Deployment and automation
 

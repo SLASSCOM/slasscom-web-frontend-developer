@@ -1,4 +1,4 @@
-[Home](../README.md) > [Introduction to Web](./README.md) > Types of web applications
+[Home](../index.md) > [Introduction to Web](./index.md) > Types of web applications
 
 # Topic: Types of web applications
 

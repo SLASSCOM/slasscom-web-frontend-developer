@@ -1,4 +1,4 @@
-[Home](../README.md) > [JavaScript Programming](./README.md) > Angular
+[Home](../index.md) > [JavaScript Programming](./index.md) > Angular
 
 # Topic: Angular
 

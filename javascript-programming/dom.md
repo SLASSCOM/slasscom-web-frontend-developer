@@ -1,4 +1,4 @@
-[Home](../README.md) > [JavaScript Programming](./README.md) > DOM and DOM Events
+[Home](../index.md) > [JavaScript Programming](./index.md) > DOM and DOM Events
 
 # Topic: DOM and DOM Events
 

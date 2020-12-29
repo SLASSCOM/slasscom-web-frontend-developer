@@ -1,4 +1,4 @@
-[Home](../README.md) > [Advanced Web](./README.md) > Browser Addons and Extentions
+[Home](../index.md) > [Advanced Web](./index.md) > Browser Addons and Extentions
 
 # Topic: Browser Addons and Extentions
 

@@ -1,4 +1,4 @@
-[Home](../README.md) > [User Experience Design](./README.md) > Prototyping tools and techniques
+[Home](../index.md) > [User Experience Design](./index.md) > Prototyping tools and techniques
 
 # Topic: Prototyping tools and techniques
 

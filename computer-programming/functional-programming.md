@@ -1,4 +1,4 @@
-[Home](../README.md) > [Computer Programming](./README.md) > Principles of functional programming
+[Home](../index.md) > [Computer Programming](./index.md) > Principles of functional programming
 
 # Topic: Principles of functional programming
 

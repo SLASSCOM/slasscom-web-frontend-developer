@@ -1,4 +1,4 @@
-[Home](../README.md) > [Introduction to Web](./README.md) > Components of web
+[Home](../index.md) > [Introduction to Web](./index.md) > Components of web
 
 # Topic: Components of web
 

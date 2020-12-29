@@ -1,4 +1,4 @@
-[Home](../README.md) > [Mobiles and other devices](./README.md) > Progressive web apps
+[Home](../index.md) > [Mobiles and other devices](./index.md) > Progressive web apps
 
 # Topic: Progressive web apps
 

@@ -1,4 +1,4 @@
-[Home](../README.md) > [Advanced Web](./README.md) > Optimised web grapics
+[Home](../index.md) > [Advanced Web](./index.md) > Optimised web grapics
 
 # Topic: Optimised web grapics
 

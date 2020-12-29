@@ -1,4 +1,4 @@
-[Home](../README.md) > [JavaScript Programming](./README.md) > Debugging Javascript
+[Home](../index.md) > [JavaScript Programming](./index.md) > Debugging Javascript
 
 # Topic: Debugging Javascript
 

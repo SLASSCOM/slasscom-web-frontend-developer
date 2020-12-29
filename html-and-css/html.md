@@ -1,4 +1,4 @@
-[Home](../README.md) > [HTML and CSS](./README.md) > HTML essentials
+[Home](../index.md) > [HTML and CSS](./index.md) > HTML essentials
 
 # Topic: HTML essentials
 

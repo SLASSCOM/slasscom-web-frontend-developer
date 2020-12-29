@@ -1,4 +1,4 @@
-[Home](../README.md) > [Data and APIs](./README.md) > Server communication
+[Home](../index.md) > [Data and APIs](./index.md) > Server communication
 
 # Topic: Server communication
 

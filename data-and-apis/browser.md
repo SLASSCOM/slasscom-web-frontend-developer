@@ -1,4 +1,4 @@
-[Home](../README.md) > [Data and APIs](./README.md) > Browser Caching and Storage
+[Home](../index.md) > [Data and APIs](./index.md) > Browser Caching and Storage
 
 # Topic: Browser Caching and Storage
 

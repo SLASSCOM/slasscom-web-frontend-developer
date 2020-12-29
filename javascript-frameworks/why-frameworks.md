@@ -1,4 +1,4 @@
-[Home](../README.md) > [JavaScript Programming](./README.md) > Why frameworks
+[Home](../index.md) > [JavaScript Programming](./index.md) > Why frameworks
 
 # Topic: Why frameworks
 

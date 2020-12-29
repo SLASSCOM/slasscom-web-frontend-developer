@@ -1,4 +1,4 @@
-[Home](../README.md) > [Computer Programming](./README.md) > Getting started with JavaScript
+[Home](../index.md) > [Computer Programming](./index.md) > Getting started with JavaScript
 
 # Topic: Getting started with JavaScript
 

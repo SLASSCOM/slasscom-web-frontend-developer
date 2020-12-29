@@ -1,4 +1,4 @@
-[Home](../README.md) > [JavaScript Programming](./README.md) > Vue.js
+[Home](../index.md) > [JavaScript Programming](./index.md) > Vue.js
 
 # Topic: Vue.js
 

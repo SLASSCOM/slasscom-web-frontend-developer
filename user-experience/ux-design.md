@@ -1,4 +1,4 @@
-[Home](../README.md) > [User Experience Design](./README.md) > Intro to User Experience Design
+[Home](../index.md) > [User Experience Design](./index.md) > Intro to User Experience Design
 
 # Topic: Intro to User Experience Design
 

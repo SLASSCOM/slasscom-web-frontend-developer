@@ -1,4 +1,4 @@
-[Home](../README.md) > [Computer Programming](./README.md) > Code Quality Control
+[Home](../index.md) > [Computer Programming](./index.md) > Code Quality Control
 
 # Topic: Code Quality Control
 

@@ -1,4 +1,4 @@
-[Home](../README.md) > [JavaScript Programming](./README.md) > jQuery
+[Home](../index.md) > [JavaScript Programming](./index.md) > jQuery
 
 # Topic: jQuery
 

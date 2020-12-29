@@ -1,4 +1,4 @@
-[Home](../README.md) > [Introduction to Web](./README.md) > Overview of web technologies
+[Home](../index.md) > [Introduction to Web](./index.md) > Overview of web technologies
 
 # Topic: Overview of web technologies
 

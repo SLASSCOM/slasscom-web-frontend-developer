@@ -1,4 +1,4 @@
-[Home](../README.md) > [HTML and CSS](./README.md) > Deeper look at CSS
+[Home](../index.md) > [HTML and CSS](./index.md) > Deeper look at CSS
 
 # Topic: Deeper look at CSS
 

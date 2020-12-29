@@ -1,4 +1,4 @@
-[Home](../README.md) > [Mobiles and other devices](./README.md) > Browser compatibility
+[Home](../index.md) > [Mobiles and other devices](./index.md) > Browser compatibility
 
 # Topic: Browser compatibility
 

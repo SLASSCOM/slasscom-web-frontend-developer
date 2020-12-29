@@ -1,4 +1,4 @@
-[Home](../README.md) > [HTML and CSS](./README.md) > Multimedia in web
+[Home](../index.md) > [HTML and CSS](./index.md) > Multimedia in web
 
 # Topic: Multimedia in web
 

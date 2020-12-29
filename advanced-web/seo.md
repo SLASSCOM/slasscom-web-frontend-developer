@@ -1,4 +1,4 @@
-[Home](../README.md) > [Advanced Web](./README.md) > Search engine optimization
+[Home](../index.md) > [Advanced Web](./index.md) > Search engine optimization
 
 # Topic: Search engine optimization
 

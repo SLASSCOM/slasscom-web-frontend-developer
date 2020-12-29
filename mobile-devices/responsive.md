@@ -1,4 +1,4 @@
-[Home](../README.md) > [Mobiles and other devices](./README.md) > Responsive design
+[Home](../index.md) > [Mobiles and other devices](./index.md) > Responsive design
 
 # Topic: Responsive design
 
