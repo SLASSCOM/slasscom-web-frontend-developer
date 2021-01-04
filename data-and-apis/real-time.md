@@ -2,14 +2,21 @@
 
 # Topic: Real time communication
 
-* Lesson: [{{Lesson name}}](#Lesson-name)
-* Lesson: [{{Lesson name}}](#Lesson-name)
-* Lesson: [{{Lesson name}}](#Lesson-name)
+* 01.Lesson: [Web Sockets - Duplex Communication](#Lesson-name)
+* 02.Lesson: [Web Sockets - Events and Actions](#Lesson-name)
+* 03.Lesson: [Web Sockets - Send & Receive Messages](#Lesson-name)
+* 04.Lesson: [Web Sockets - Handling Errors](#Lesson-name)
+* 05.Lesson: [WebRTC - Peer to Peer Connection](#Lesson-name)
+* 06.Lesson: [WebRTC - MediaStream APIs ](#Lesson-name)
+* 07.Lesson: [WebRTC - RTCPeerConnection APIs ](#Lesson-name)
+* 08.Lesson: [WebRTC - RTCDataChannel APIs ](#Lesson-name)
+* 09.Lesson: [WebRTC - Signaling ](#Lesson-name)
+* 10.Lesson: [WebRTC - Communicate Beyond Firewalls STUN/TURN servers](#Lesson-name)
 * Assignment: [{{Assignment name}}](#Assignment-name)
 
 ---
 
-## Lesson name
+## Duplex Communication
 
 ### Self learning content
 
